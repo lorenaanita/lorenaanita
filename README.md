@@ -1,7 +1,7 @@
 
-# 👋 oi, meu nome é anita. 
-- 👀 tenho interresse em aprender mais sobre computação.
-- 🌱 estou aprendendo sobre GitHub.
+# :pinched_fingers: Oi, meu nome é Anita. 
+- :thinking: tenho interresse em aprender mais sobre computação.
+- 🌱 estou aprendendo sobre GitHub etc.
 - :speech_balloon: rodrigues.aniita@escola.pr.gov.br.
 
 <!---
