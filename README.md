@@ -3,6 +3,7 @@
 - :thinking: tenho interresse em aprender mais sobre computação.
 - 🌱 estou aprendendo sobre GitHub etc.
 - :speech_balloon: rodrigues.aniita@escola.pr.gov.br.
+- :registered: :trollface: 
 
 <!---
 lorenaanita/lorenaanita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
